@@ -1,6 +1,6 @@
 # Python Programming from FreeCodeCamp
 **PROGRAMMING LANGUAGE:** *Python*<br />
-**INTRO:** *Pyton programming as shown in https://www.youtube.com/watch?v=rfscVS0vtbw&list=WL&index=17&t=392s*<br /> 
+**INTRO:** *Python programming as shown in https://www.youtube.com/watch?v=rfscVS0vtbw&list=WL&index=17&t=392s*<br /> 
 **FUNCTIONS:**<br />
   &nbsp;&nbsp;&nbsp; 
 <br />
