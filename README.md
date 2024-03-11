@@ -11,11 +11,31 @@
     <th>Description</th>
   </tr>
   <tr>
-    <td></td>
+    <td>ChefFile.py</td>
     <td></td>
   </tr>
   <tr>
+    <td>ChineseChefFile.py</td>
     <td></td>
+  </tr>
+  <tr>
+    <td>employees.txt</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>FreeCodeCamp.py</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>question.py</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>student.py</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>tools.py</td>
     <td></td>
   </tr>
 </table>
