@@ -11,6 +11,10 @@
     <th>Description</th>
   </tr>
   <tr>
+    <td>FreeCodeCamp.py</td>
+    <td>contains basic python code</td>
+  </tr>  
+  <tr>
     <td>ChefFile.py</td>
     <td>base class for inheritance example</td>
   </tr>
@@ -21,10 +25,6 @@
   <tr>
     <td>employees.txt</td>
     <td>used for reading file function</td>
-  </tr>
-  <tr>
-    <td>FreeCodeCamp.py</td>
-    <td>contains basic python code</td>
   </tr>
   <tr>
     <td>question.py</td>
