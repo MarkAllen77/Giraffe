@@ -16,26 +16,26 @@
   </tr>
   <tr>
     <td>ChineseChefFile.py</td>
-    <td></td>
+    <td>inherits ChefFile class</td>
   </tr>
   <tr>
     <td>employees.txt</td>
-    <td></td>
+    <td>used for reading file function</td>
   </tr>
   <tr>
     <td>FreeCodeCamp.py</td>
-    <td></td>
+    <td>contains basic python code</td>
   </tr>
   <tr>
     <td>question.py</td>
-    <td></td>
+    <td>used in the multiple choice quiz class</td>
   </tr>
   <tr>
     <td>student.py</td>
-    <td></td>
+    <td>used in the class import sample</td>
   </tr>
   <tr>
     <td>tools.py</td>
-    <td></td>
+    <td>used as a local library compared to imported libraries</td>
   </tr>
 </table>
