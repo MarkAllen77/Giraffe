@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td>ChefFile.py</td>
-    <td></td>
+    <td>base class for inheritance example</td>
   </tr>
   <tr>
     <td>ChineseChefFile.py</td>
