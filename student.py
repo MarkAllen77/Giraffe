@@ -5,12 +5,15 @@ class ClassStudent:
         self.c = gpa
         self.d = probation
 
+    def name(self):
+        return self.a
+
     def honor(self):
         if self.c >= 3.5:
             return True
         else:
             return False
 
-    @classmethod
-    def prints(cls):
+
+    def prints(self):
         print("This is the class method")
