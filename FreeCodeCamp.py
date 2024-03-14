@@ -58,7 +58,9 @@ def working_with_numbers():
     x = 5
     print(x)
     print("the number " + str(x))
-    print(max(2, 4, -2, 3 * 10))
+    print(max(2, 2.06, -2, 3 * 10))
+    value = [2, 2.06, -2, 3 * 10]
+    print(max(value))
 
     print(floor(3.7))
 
@@ -512,11 +514,25 @@ def python_interpreter():
 
     print(letterslist["a"])
 
+import source.noclassimport
+import source.importonly
+from source.fromimport import ClassFromImport
 
-# pycharm > alt+7
+def usingotherfiles():
+    value1 = source.noclassimport
+    print(value1.defnoclassimport_value())
+
+    value2 = source.importonly.ClassImportOnly
+    print(value2.defimportonly_value())
+
+    value3 = ClassFromImport
+    print(value3.deffromimport_value())
+
+
+# -- pycharm > alt+7 --
 # python_introduction()
 # working_with_strings()
-# working_with_numbers()
+working_with_numbers()
 # getting_input_from_users()
 # building_a_basic_calculator()
 # mad_libs_game()
@@ -545,3 +561,4 @@ def python_interpreter():
 # object_functions()
 # inheritance()
 # python_interpreter()
+# usingotherfiles()
